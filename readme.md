@@ -8,4 +8,4 @@ oluccqabreu <--
 
 Aula: Recriando a página inicial do Instagram
 
-![](img\Insta.png)
+![](img/Insta.png)
