@@ -1,4 +1,4 @@
-Projeto criado com bases nas aulas da Digital innovation One (DIO)
+Projeto criado com base nas aulas da Digital innovation One (DIO)
 
 Criado em Junho de 2021.
 
